@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ee7d77cd747c345d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43fb110729b15d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62451363eb5da589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS SysOps Administrator - Associate/EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e19708cc00b318d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec84f098373345a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8723bf3f5c55714d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d86bb45dacdfe110",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a4179fed85bb1fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29d5a3b36c76cf28",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c7712f58db7ceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b6667440558d4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS SysOps Administrator - Associate/EC2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0407dd5aca8cbb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS SysOps Administrator - Associate/EC2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "719b6163f5a7a540",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e73eb2553e00e15c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS SysOps Administrator - Associate/EC2.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8723bf3f5c55714d",
+  "lastOpenFiles": [
+    "AWS SysOps Administrator - Associate/EC2 Instance connect.png",
+    "Pasted image 20240208203749.png",
+    "AWS SysOps Administrator - Associate/EC2.md",
+    "Pasted image 20240206134326.png",
+    "2024-02-05.md"
+  ]
+}
