@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d43fb110729b15d5",
+        "id": "029484d85a181ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "62451363eb5da589",
+            "id": "489449c2721ed085",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS SysOps Administrator - Associate/EC2.md",
+                "file": "AWS/EC2/EC2 interacting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS SysOps Administrator - Associate/EC2.md",
+                "file": "AWS/EC2/EC2 interacting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS SysOps Administrator - Associate/EC2.md",
+                "file": "AWS/EC2/EC2 interacting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS SysOps Administrator - Associate/EC2.md"
+                "file": "AWS/EC2/EC2 interacting.md"
               }
             }
           }
@@ -146,11 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8723bf3f5c55714d",
+  "active": "489449c2721ed085",
   "lastOpenFiles": [
-    "AWS SysOps Administrator - Associate/EC2 Instance connect.png",
+    "AWS/EC2/EC2 Troubleshooting.md",
+    "AWS/EC2/EC2.md",
+    "AWS/EC2/EC2 Placement Group.md",
+    "AWS/EC2/EC2 Blueprint.md",
+    "AWS/EC2/EC2 Network.md",
+    "AWS/EC2/EC2 interacting.md",
+    "AWS/EC2/Images",
+    "AWS/EC2/Network",
+    "AWS/EC2",
+    "AWS/EC2/Images/EC2 Instance connect.png",
     "Pasted image 20240208203749.png",
-    "AWS SysOps Administrator - Associate/EC2.md",
     "Pasted image 20240206134326.png",
     "2024-02-05.md"
   ]
